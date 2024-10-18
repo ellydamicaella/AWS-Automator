@@ -64,10 +64,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato através do seu e-mail ou GitHub.
+Para dúvidas ou sugestões, entre em contato através do seu e-mail, linkedin ou GitHub.
 
- ellydamicaella810@gmail.com
- https://www.linkedin.com/in/ellyda-santana-62a580223/
+ Email: ellydamicaella810@gmail.com
+ Linkedin: https://www.linkedin.com/in/ellyda-santana-62a580223/
 
 
 
